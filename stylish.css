@@ -1,0 +1,32 @@
+
+
+h1 {
+    color: purple;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+p {
+    color: orange;
+    font-size: 20px;
+
+}
+
+article {
+    color: green;
+    font-size: 48px;
+    background-color: orange;
+    text-align: center;
+}
+
+ul {
+    font-size: x-large;
+    color:blue;
+}
+
+li {
+    font-size: xx-small;
+    color: lime;
+    background-color: magenta;
+    text-align: center;
+}
